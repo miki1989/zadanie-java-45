@@ -34,5 +34,7 @@ public class QuizController {
         }
 
         System.out.println("Udzieliłeś poprawnej odpoowiedzi na " + result + " z 3 pytań");
+
+        scan1.close();
     }
 }
