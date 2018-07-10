@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class QuizController {
     public static void main(String[] args) {
         Scanner scan1 = new Scanner(System.in);
-        MathQuiz quiz = new MathQuiz(15);
+        MathQuiz quiz = new MathQuiz();
         int result = 0;
 
         System.out.println("Jaki jest wynik mnożenia liczb 3 i 5?");
