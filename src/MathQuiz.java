@@ -1,5 +1,5 @@
 public class MathQuiz {
-    double multiply;
+    /*double multiply;
     double area;
     double root;
 
